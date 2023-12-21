@@ -1,0 +1,1 @@
+ID: T2ZWU0R7H2R50ZT1, OperationDate: 21.12.2023 1:46:36, PackageWeight: 234, PriceToPay: 234, SenderName: wrw, SenderPhoneNumber: 23432, IsPaidBySender: True, RecipientName: wrew, RecipientBranchNumber: 32432, IsCompleted: False

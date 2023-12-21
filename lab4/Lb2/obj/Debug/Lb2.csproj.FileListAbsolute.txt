@@ -1,0 +1,77 @@
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.Form1.resources
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.Properties.Resources.resources
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\bin\Debug\Lb2.exe.config
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\bin\Debug\Lb2.exe
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\bin\Debug\Lb2.pdb
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.exe
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.pdb
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.Forms.fbutton.resources
+C:\Users\danil\Desktop\учеба\с#\Lb2\Lb2\obj\Debug\Lb2.Forms.sbutton.resources
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\bin\Debug\Lb2.exe.config
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\bin\Debug\Lb2.exe
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\bin\Debug\Lb2.pdb
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.csproj.AssemblyReference.cache
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.Form1.resources
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.Forms.fbutton.resources
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.Forms.foubutton.resources
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.Forms.sbutton.resources
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.Forms.tbutton.resources
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.Properties.Resources.resources
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.csproj.GenerateResource.cache
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.csproj.CoreCompileInputs.cache
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.exe
+C:\Users\teddy\OneDrive\Рабочий стол\Lb2\Lb2\obj\Debug\Lb2.pdb
+D:\LearningNure\3_course\c#\lab3\Lb2\bin\Debug\Lb2.exe.config
+D:\LearningNure\3_course\c#\lab3\Lb2\bin\Debug\Lb2.exe
+D:\LearningNure\3_course\c#\lab3\Lb2\bin\Debug\Lb2.pdb
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.csproj.AssemblyReference.cache
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.Form1.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.Forms.fbutton.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.Forms.foubutton.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.Forms.sbutton.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.Forms.tbutton.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.Properties.Resources.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.csproj.GenerateResource.cache
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.csproj.CoreCompileInputs.cache
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.exe
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.pdb
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.FormCreateCard.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.FormCreateClient.resources
+D:\LearningNure\3_course\c#\lab3\Lb2\obj\Debug\Lb2.FormDeleteCard.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\bin\Debug\Lb2.exe.config
+D:\LearningNure\3_course\c#\lab4\Lb2\bin\Debug\Lb2.exe
+D:\LearningNure\3_course\c#\lab4\Lb2\bin\Debug\Lb2.pdb
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.csproj.AssemblyReference.cache
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.Form1.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.FormCreateCard.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.FormCreateClient.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.FormDeleteCard.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.Forms.fbutton.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.Forms.foubutton.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.Forms.sbutton.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.Forms.tbutton.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.Properties.Resources.resources
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.csproj.GenerateResource.cache
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.csproj.CoreCompileInputs.cache
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.exe
+D:\LearningNure\3_course\c#\lab4\Lb2\obj\Debug\Lb2.pdb
+C:\Users\danil\Desktop\lab4\Lb2\bin\Debug\Lb2.exe.config
+C:\Users\danil\Desktop\lab4\Lb2\bin\Debug\Lb2.exe
+C:\Users\danil\Desktop\lab4\Lb2\bin\Debug\Lb2.pdb
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.Form1.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.FormCreateCard.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.FormCreateClient.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.FormDeleteCard.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.Forms.fbutton.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.Forms.foubutton.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.Forms.sbutton.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.Forms.tbutton.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.Properties.Resources.resources
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.exe
+C:\Users\danil\Desktop\lab4\Lb2\obj\Debug\Lb2.pdb
